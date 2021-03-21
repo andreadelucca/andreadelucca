@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreadelucca, as known as "Ximira"
 - 👀 I’m interested in JS development, specifically, ReactJS and React Native
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on React and React Native projects
+- 🌱 I’m currently learning Python for Data Science
+- 💞️ I’m looking to collaborate on React, React Native or Python Projects!
 - 📫 How to reach me? Easy! Send me an e-mail: andrelucas.batista@outlook.com
 
 <!---
